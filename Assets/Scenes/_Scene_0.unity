@@ -157,6 +157,17 @@ Prefab:
       propertyPath: chanceToChangeDirections
       value: 0.2
       objectReference: {fileID: 0}
+    - target: {fileID: 114556550254538618, guid: 999c51fffac9f8d4baff395f9c49f944,
+        type: 2}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 1001493452517650, guid: ce05ebbc792dc6942a56054a4ba9c250,
+        type: 2}
+    - target: {fileID: 54297258350828102, guid: 999c51fffac9f8d4baff395f9c49f944,
+        type: 2}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 999c51fffac9f8d4baff395f9c49f944, type: 2}
   m_IsPrefabParent: 0
